@@ -181,7 +181,7 @@ const Settings = ({ signOut }) => {
                       </div>
                       <div className="flex justify-between">
                         <span>Last Updated:</span>
-                        <span className="font-medium">January 2024</span>
+                        <span className="font-medium">November2025</span>
                       </div>
                       <div className="pt-2 border-t border-gray-200">
                         <button className="text-blue-600 hover:text-blue-700">Terms of Service</button>
