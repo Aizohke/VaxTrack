@@ -1,4 +1,4 @@
-import { Clerk } from '@clerk/clerk-sdk-node';
+import Clerk  from '@clerk/clerk-sdk-node';
 import User from '../models/User.js';
 import logger from '../utils/logger.js';
 
