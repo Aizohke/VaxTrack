@@ -1,4 +1,8 @@
-import Clerk  from '@clerk/clerk-sdk-node';
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+
+const Clerk = require('@clerk/clerk-sdk-node');
+
 import User from '../models/User.js';
 import logger from '../utils/logger.js';
 
