@@ -84,7 +84,6 @@ app.use(`/api/${apiVersion}/clinics`, clinicsRoutes);
 
 // Health check endpoint
 app.get('/health', (req, res) => {
-i am
   res.status(200).json({
     status: 'success',
     message: 'VaxTrack API is running',
