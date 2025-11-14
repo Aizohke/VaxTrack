@@ -6,7 +6,7 @@ import {
   updateUserProfile,
   deleteAccount
 } from '../controllers/auth.controller.js';
-import { protect } from '../middleware/auth.middleware.js';
+import { requireAuth } from '../middleware/auth.middleware.js';
 import { validate } from '../middleware/validation.js';
 
 const router = express.Router();
