@@ -4,6 +4,7 @@
 **VaxTrack & Prevent** is a modern, real-time MERN stack application designed for parents and healthcare providers to manage childhood immunizations. It features an AI assistant, real-time chat with doctors, automated reminders, and a smart vaccine tracker — all wrapped in a high-performance UI.
 
 ➡️ **[View Live Demo](https://vaxtrackapp.netlify.app/)** 
+
 ➡️ **[View Pitchdeck ](https://gamma.app/docs/VaxTrack-Prevent-0g7zit1ejexm4n7)**
 
 ---
